@@ -1,0 +1,13 @@
+.env
+**/.env
+venv/
+**/venv/
+.venv/
+**/.venv/
+node_modules/
+**/node_modules/
+.vite/
+**/.vite/
+__pycache__/
+*.py[cod]
+.DS_Store
